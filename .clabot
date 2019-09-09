@@ -1,7 +1,7 @@
 {
   "contributors": [ "krikit", "hubert-lee", "violetblue"],
   "message": "If the initial contribution is required [CLA](https://github.com/kakao/khaiii/blob/master/CONTRIBUTING.md) agreement.
-  한국인은 국내법에 의해 개인정보제공동의가 필요합니다. [pdf파일(https://t1.daumcdn.net/osa/opensource/ContributorLicenseAgreement(Individual).pdf)]을 다운받아 opensource@kakaocorp.com 으로 메일을 보내 주세요.",
+  한국인은 국내법에 의해 개인정보제공동의가 필요합니다. [pdf파일](https://t1.daumcdn.net/osa/opensource/ContributorLicenseAgreement(Individual).pdf)]을 다운받아 opensource@kakaocorp.com 으로 메일을 보내 주세요.",
   "label": "CLS-Signed",
   "recheckComment": "Please Recheck CLA"
 }
